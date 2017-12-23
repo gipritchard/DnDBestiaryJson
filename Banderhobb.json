@@ -1,0 +1,95 @@
+{
+  "name": "Banderhobb",
+  "size": "Large",
+  "type": "Monstrosity",
+  "subtype": "",
+  "alignment": "Neutral Evil",
+  "armor_class": 15,
+  "hit_points": 84,
+  "hit_dice": "8d10+40",
+  "speed": "30ft",
+  "strength": 20,
+  "dexterity": 12,
+  "constitution": 20,
+  "intelligence": 11,
+  "wisdom": 14,
+  "charisma": 8,
+  "strength_save": 5,
+  "dexterity_save": 1,
+  "constitution_save": 5,
+  "intelligence_save": 0,
+  "wisdom_save": 2,
+  "charisma_save": -1,
+  "acrobatics": 0,
+  "animal_handling": 0,
+  "arcana": 0,
+  "athletics": 8,
+  "deception": 0,
+  "history": 0,
+  "insight": 0,
+  "intimidation": 0,
+  "investigation": 0,
+  "medicine": 0,
+  "nature": 0,
+  "perception": 0,
+  "performance": 0,
+  "persuasion": 0,
+  "religion": 0,
+  "sleight_of_hand": 0,
+  "stealth": 0,
+  "survival": 7,
+  "damage_vulnerabilities": "",
+  "damage_resistances": "",
+  "damage_immunities": "Charmed, Frightened",
+  "condition_immunities": "",
+  "senses": "Darkvision 120ft, passive Perception 12",
+  "languages": "understands common, and the languages of its creator, but can't speak",
+  "challenge_rating": "5",
+  "special_abilities": [
+    {
+      "name": "Resonant Connection",
+      "desc": "If the banderhobb has even a tiny piece ofa creature or an object in its possession, such as a lock of hair or a splinter ofwood, it knows the most direct route to that creature or object ifit is within 1 mile ofthe banderhobb",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Shadow Stealth",
+      "desc": "While in dim light or darkness, the bander- hobb can take the Hide action as a bonus action.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "actions": [
+    {
+      "name": "Bite",
+      "desc": "Melee Weapon Attack: reach 5 ft., one target. Piercing damage. On hit the target is grappled (escape DC 15) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the banderhobb can't use its bite attack or tongue attack on another target.",
+      "attack_bonus": 8,
+      "damage_dice": "5d6",
+      "damage_bonus": 5
+    },
+    {
+      "name": "Tongue",
+      "desc": "Melee Weapon Attack: reach 15 ft., one creature. Necrotic damage. On hit the target must make a DC 15 Strength saving throw. On a failed save, the target is pulled to a space within 5 feet ofthe banderhobb, which can use a bonus action to make a bite attack against the target.",
+      "attack_bonus": 8,
+      "damage_dice": "3d6",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Swallow",
+      "desc": "The banderhobb makes a bite attack against a Medium or smaller creature it is grappling. If the attack hits, the creature is swallowed, and the grapple ends. The swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the banderhobb, and it takes 10 (3d6) necrotic damage at the start ofeach of the banderhobb's turns. A creature reduced to O hit points in this way stops taking the necrotic damage and becomes stable.\nThe banderhobb can have only one creature swallowed at a time. While the banderhobb isn't incapacitated, it can regur- gitate the creature at any time (no action required) in a space within 5 feet of it. The creature exits prone. Ifthe banderhobb dies, it likewise regurgitates a swallowed creature.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Shadow Step",
+      "desc": "The banderhobb magically teleports up to 30 feet to an unoccupied space of dim light or darkness that it can see. Before or after teleporting, it can make a bite or tongue attack.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "legendary_actions": []
+}
