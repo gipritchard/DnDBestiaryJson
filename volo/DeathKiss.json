@@ -1,0 +1,81 @@
+{
+  "name": "Death Kiss",
+  "size": "Large",
+  "type": "Aberration",
+  "subtype": "Beholder",
+  "alignment": "Neutral Evil",
+  "armor_class": 16,
+  "hit_points": 161,
+  "hit_dice": "17d10",
+  "speed": "0 ft., fly 30ft. (hover)",
+  "strength": 18,
+  "dexterity": 14,
+  "constitution": 18,
+  "intelligence": 10,
+  "wisdom": 12,
+  "charisma": 10,
+  "strength_save": 0,
+  "dexterity_save": 0,
+  "constitution_save": 8,
+  "intelligence_save": 0,
+  "wisdom_save": 5,
+  "charisma_save": 0,
+  "acrobatics": 0,
+  "animal_handling": 0,
+  "arcana": 0,
+  "athletics": 0,
+  "deception": 0,
+  "history": 0,
+  "insight": 0,
+  "intimidation": 0,
+  "investigation": 0,
+  "medicine": 0,
+  "nature": 0,
+  "perception": 5,
+  "performance": 0,
+  "persuasion": 0,
+  "religion": 0,
+  "sleight_of_hand": 0,
+  "stealth": 0,
+  "survival": 0,
+  "damage_vulnerabilities": "",
+  "damage_resistances": "",
+  "damage_immunities": "lightning",
+  "condition_immunities": "prone",
+  "senses": "darkvision 120 ft., passive Perception 15",
+  "languages": "Deep Speech, Undercommon",
+  "challenge_rating": "10",
+  "special_abilities": [
+    {
+      "name": "Lightning Blood",
+      "desc": "A creature within 5 feet of the death kiss takes 5 (1d1O) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "actions": [
+    {
+      "name": "Multiattack",
+      "desc": "The death kiss makes three tentacle attacks. Up to three of these attacks can be replaced by Blood Drain, one replacement per tentacle grappling a creature",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Tentacle",
+      "desc": "Melee Weapon Attack: reach 20 ft., one target. Hit: 14 (3d6 +4) piercing damage, and the target is grappled (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.",
+      "attack_bonus": 8,
+      "damage_dice": "3d6",
+      "damage_bonus": 4
+    },
+    {
+      "name": "Blood Drain",
+      "desc": "One creature grappled by a tentacle of the death kiss must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (4d10) lightning damage, and the death kiss regains half as many hit points.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "legendary_actions": [ ]
+}
