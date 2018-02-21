@@ -1,0 +1,95 @@
+{
+  "name": "Chitine",
+  "size": "Small",
+  "type": "Monstrosity",
+  "subtype": "",
+  "alignment": "Chaotic Evil",
+  "armor_class": 14,
+  "hit_points": 18,
+  "hit_dice": "4d6+4",
+  "speed": "30 ft., climb 30 ft.",
+  "strength": 10,
+  "dexterity": 14,
+  "constitution": 12,
+  "intelligence": 10,
+  "wisdom": 10,
+  "charisma": 7,
+  "strength_save": 0,
+  "dexterity_save": 2,
+  "constitution_save": 1,
+  "intelligence_save": 0,
+  "wisdom_save": 0,
+  "charisma_save": -2,
+  "acrobatics": 0,
+  "animal_handling": 0,
+  "arcana": 0,
+  "athletics": 4,
+  "deception": 0,
+  "history": 0,
+  "insight": 0,
+  "intimidation": 0,
+  "investigation": 0,
+  "medicine": 0,
+  "nature": 0,
+  "perception": 0,
+  "performance": 0,
+  "persuasion": 0,
+  "religion": 0,
+  "sleight_of_hand": 0,
+  "stealth": 4,
+  "survival": 0,
+  "damage_vulnerabilities": "",
+  "damage_resistances": "",
+  "damage_immunities": "",
+  "condition_immunities": "",
+  "senses": "darkvision 60 ft., passive Perception 10",
+  "languages": "Undercommon",
+  "challenge_rating": "1/2",
+  "special_abilities": [
+    {
+      "name": "Fey Ancestry",
+      "desc": "The chitine has advantage on saving throws against being charmed, and magic can't put the chitine to sleep.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Sunlight Sensitivity",
+      "desc": "While in sunlight, the chitine has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Web Sense",
+      "desc": "While in contact with a web, the chitine knows the exact location of any other creature in contact with the same web.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Web Walker",
+      "desc": "The chitine ignores movement restrictions caused by webbing.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "actions": [
+    {
+      "name": "Multiattack",
+      "desc": "The chitine makes three attacks with its daggers.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Dagger",
+      "desc": "Melee or Ranged Weapon Attack, reach 5 ft. or range 20/60 ft., one target. piercing damage",
+      "attack_bonus": 4,
+      "damage_dice": "1d4",
+      "damage_bonus": 2
+    }
+  ],
+  "legendary_actions": []
+}

@@ -17,6 +17,14 @@
       "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Barghest.json"
     },
     {
+      "armor_class": 14,
+      "challenge_rating": "1/2",
+      "hit_dice": "4d6+4",
+      "hit_points": 18,
+      "name": "Chitine",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Chitine.json"
+    },
+    {
       "armor_class": 16,
       "challenge_rating": "10",
       "hit_dice": "17d10",
