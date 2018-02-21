@@ -460,13 +460,13 @@
       "name": "Dagger",
       "desc": "Melee or Ranged Weapon Attack: reach 5 ft. or range 20/60 ft., one target.",
       "attack_bonus": 5,
-      "damage_dice": "3d6 (poison damage) + 1d4 (piercing damage)",
+      "damage_dice": "3d6 (poison) + 1d4 (piercing)",
       "damage_bonus": 3
     },
     {
       "name": "Web (Recharge 5-6)",
-      "desc": "Ranged Weapon Attack: range 30/60 ft., one Large or smaller creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).",
-      "attack_bonus": 5,
+      "desc": "Ranged Weapon Attack: range 30/60 ft., one Large or smaller creature. +5 to hit. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).",
+      "attack_bonus": 0,
       "damage_dice": "",
       "damage_bonus": 0
     }
