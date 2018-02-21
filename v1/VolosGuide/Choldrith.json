@@ -93,7 +93,7 @@
     {
       "name": "Dagger",
       "desc": "Melee or Ranged Weapon Attack: reach 5 ft. or range 20/60 ft., one target.",
-      "attack_bonus": 5,
+      "attack_bonus": 5, 
       "damage_dice": "3d6 (poison) + 1d4 (piercing)",
       "damage_bonus": 3
     },
