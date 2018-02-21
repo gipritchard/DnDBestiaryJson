@@ -1,28 +1,28 @@
 {
   "monsters": [
     {
+      "armor_class": 15,
+      "challenge_rating": "5",
+      "hit_dice": "8d10+40",
+      "hit_points": 84,
+      "name": "Banderhobb",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Banderhobb.json"
+    },
+    {
       "armor_class": 17,
+      "challenge_rating": "4",
+      "hit_dice": "12d10",
+      "hit_points": 90,
+      "name": "Barghest",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Barghest.json"
+    },
+    {
+      "armor_class": 16,
       "challenge_rating": "10",
-      "hit_dice": "18d10",
-      "hit_points": 135,
-      "name": "Aboleth",
-      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/MonsterManual/Aboleth.json"
-    },
-    {
-      "armor_class": 10,
-      "challenge_rating": "1/4",
-      "hit_dice": "2d8",
-      "hit_points": 9,
-      "name": "Acolyte",
-      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/MonsterManual/Acolyte.json"
-    },
-    {
-      "armor_class": 19,
-      "challenge_rating": "14",
-      "hit_dice": "17d12",
-      "hit_points": 195,
-      "name": "Adult Black Dragon",
-      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/MonsterManual/AdultBlackDragon.json"
+      "hit_dice": "17d10",
+      "hit_points": 161,
+      "name": "Death Kiss",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/DeathKiss.json"
     }
   ]
 }
