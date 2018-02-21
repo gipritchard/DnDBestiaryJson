@@ -25,6 +25,14 @@
       "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Chitine.json"
     },
     {
+      "armor_class": 15,
+      "challenge_rating": "3",
+      "hit_dice": "12d8+12",
+      "hit_points": 66,
+      "name": "Choldrith",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Choldrith.json"
+    },
+    {
       "armor_class": 16,
       "challenge_rating": "10",
       "hit_dice": "17d10",

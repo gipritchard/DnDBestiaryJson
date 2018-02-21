@@ -268,5 +268,209 @@
     }
   ],
   "legendary_actions": [ ]
+},
+{
+  "name": "Chitine",
+  "size": "Small",
+  "type": "Monstrosity",
+  "subtype": "",
+  "alignment": "Chaotic Evil",
+  "armor_class": 14,
+  "hit_points": 18,
+  "hit_dice": "4d6+4",
+  "speed": "30 ft., climb 30 ft.",
+  "strength": 10,
+  "dexterity": 14,
+  "constitution": 12,
+  "intelligence": 10,
+  "wisdom": 10,
+  "charisma": 7,
+  "strength_save": 0,
+  "dexterity_save": 2,
+  "constitution_save": 1,
+  "intelligence_save": 0,
+  "wisdom_save": 0,
+  "charisma_save": -2,
+  "acrobatics": 0,
+  "animal_handling": 0,
+  "arcana": 0,
+  "athletics": 4,
+  "deception": 0,
+  "history": 0,
+  "insight": 0,
+  "intimidation": 0,
+  "investigation": 0,
+  "medicine": 0,
+  "nature": 0,
+  "perception": 0,
+  "performance": 0,
+  "persuasion": 0,
+  "religion": 0,
+  "sleight_of_hand": 0,
+  "stealth": 4,
+  "survival": 0,
+  "damage_vulnerabilities": "",
+  "damage_resistances": "",
+  "damage_immunities": "",
+  "condition_immunities": "",
+  "senses": "darkvision 60 ft., passive Perception 10",
+  "languages": "Undercommon",
+  "challenge_rating": "1/2",
+  "special_abilities": [
+    {
+      "name": "Fey Ancestry",
+      "desc": "The chitine has advantage on saving throws against being charmed, and magic can't put the chitine to sleep.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Sunlight Sensitivity",
+      "desc": "While in sunlight, the chitine has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Web Sense",
+      "desc": "While in contact with a web, the chitine knows the exact location of any other creature in contact with the same web.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Web Walker",
+      "desc": "The chitine ignores movement restrictions caused by webbing.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "actions": [
+    {
+      "name": "Multiattack",
+      "desc": "The chitine makes three attacks with its daggers.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Dagger",
+      "desc": "Melee or Ranged Weapon Attack, reach 5 ft. or range 20/60 ft., one target. piercing damage",
+      "attack_bonus": 4,
+      "damage_dice": "1d4",
+      "damage_bonus": 2
+    }
+  ],
+  "legendary_actions": []
+},
+{
+  "name": "Choldrith",
+  "size": "Medium",
+  "type": "Monstrosity",
+  "subtype": "",
+  "alignment": "Chaotic Evil",
+  "armor_class": 15,
+  "hit_points": 66,
+  "hit_dice": "12d8+12",
+  "speed": "30ft., climb 30 ft.",
+  "strength": 12,
+  "dexterity": 16,
+  "constitution": 12,
+  "intelligence": 11,
+  "wisdom": 14,
+  "charisma": 10,
+  "strength_save": 1,
+  "dexterity_save": 3,
+  "constitution_save": 1,
+  "intelligence_save": 0,
+  "wisdom_save": 2,
+  "charisma_save": 0,
+  "acrobatics": 0,
+  "animal_handling": 0,
+  "arcana": 0,
+  "athletics": 5,
+  "deception": 0,
+  "history": 0,
+  "insight": 0,
+  "intimidation": 0,
+  "investigation": 0,
+  "medicine": 0,
+  "nature": 0,
+  "perception": 0,
+  "performance": 0,
+  "persuasion": 0,
+  "religion": 2,
+  "sleight_of_hand": 0,
+  "stealth": 5,
+  "survival": 0,
+  "damage_vulnerabilities": "",
+  "damage_resistances": "",
+  "damage_immunities": "",
+  "condition_immunities": "",
+  "senses": "darkvision 60 ft., passive Perception 12",
+  "languages": "Undercommon",
+  "challenge_rating": "3",
+  "special_abilities": [
+    {
+      "name": "Fey Ancestry",
+      "desc": "The choldrith has advantage on saving throws against being charmed, and magic can't put the choldrith to sleep.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Spellcasting",
+      "desc": "The choldrith is a 4th-level spellcaster. Its spellcasting ability is Wisdom (save DC 12, +4 to hit with spell attacks). The choldrith has the following cleric spells prepared:\n\nCantrips (at will): guidance, mending, resistance, thaumaturgy\n\n1st level (4 slots): bane, healing word, sanctuary, shield of faith\n\n2nd level (3 slots): hold person, spiritual weapon (dagger)",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Spider Climb",
+      "desc": "The choldrith can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Sunlight Sensitivity",
+      "desc": "While in sunlight, the choldrith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Web Sense",
+      "desc": "While in contact with a web, the choldrith knows the exact location of any other creature in contact with the same web.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Web Walker",
+      "desc": "The choldrith ignores movement restrictions caused by webbing.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "actions": [
+    {
+      "name": "Dagger",
+      "desc": "Melee or Ranged Weapon Attack: reach 5 ft. or range 20/60 ft., one target.",
+      "attack_bonus": 5,
+      "damage_dice": "3d6 (poison damage) + 1d4 (piercing damage)",
+      "damage_bonus": 3
+    },
+    {
+      "name": "Web (Recharge 5-6)",
+      "desc": "Ranged Weapon Attack: range 30/60 ft., one Large or smaller creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).",
+      "attack_bonus": 5,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "legendary_actions": []
 }
 ]}
