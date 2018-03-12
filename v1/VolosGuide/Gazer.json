@@ -1,0 +1,81 @@
+{
+  "name": "Gazer",
+  "size": "Tiny",
+  "type": "Aberration",
+  "subtype": "Beholder",
+  "alignment": "Neutral Evil",
+  "armor_class": 13,
+  "hit_points": 13,
+  "hit_dice": "3d4+6",
+  "speed": "0 ft., fly 30 ft. (hover)",
+  "strength": 3,
+  "dexterity": 17,
+  "constitution": 14,
+  "intelligence": 3,
+  "wisdom": 10,
+  "charisma": 7,
+  "strength_save": 0,
+  "dexterity_save": 0,
+  "constitution_save": 0,
+  "intelligence_save": 0,
+  "wisdom_save": 2,
+  "charisma_save": 0,
+  "acrobatics": 0,
+  "animal_handling": 0,
+  "arcana": 0,
+  "athletics": 0,
+  "deception": 0,
+  "history": 0,
+  "insight": 0,
+  "intimidation": 0,
+  "investigation": 0,
+  "medicine": 0,
+  "nature": 0,
+  "perception": 4,
+  "performance": 0,
+  "persuasion": 0,
+  "religion": 0,
+  "sleight_of_hand": 0,
+  "stealth": 5,
+  "survival": 0,
+  "damage_vulnerabilities": "",
+  "damage_resistances": "",
+  "damage_immunities": "",
+  "condition_immunities": "prone",
+  "senses": "Darkvision 60 ft., passive Perception 14",
+  "languages": "-",
+  "challenge_rating": "1/2",
+  "special_abilities": [
+    {
+      "name": "Aggressive",
+      "desc": "As a bonus action, the gazer can move up to its speed toward a hostile creature that it can see.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Mimicry",
+      "desc": "The gazer can mimic simple sounds ofspeech it has heard, in any language. A creature that hears the sounds can tell they are, imitations with a successful DC 10 Wisdom (Insight) check",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "actions": [
+    {
+      "name": "Bite",
+      "desc": "Melee Weapon Attack reach 5 ft., one target. Hit: 1 piercing damage.",
+      "attack_bonus": 5,
+      "damage_dice": "0d4",
+      "damage_bonus": 1
+    },
+    {
+      "name": "Eye Rays",
+      "desc": "The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it:\n\n1. Dazing Ray. The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start ofthe gazer's next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.\n2. Fear Ray. The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start ofthe gazer's next turn.\n3. Frost Ray. The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.\n4. Telekinetic Ray. Ifthe target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer.\nIf the target is an object weighing 10 pounds or less that isn't being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "legendary_actions": []
+}

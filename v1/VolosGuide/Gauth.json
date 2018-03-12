@@ -1,0 +1,84 @@
+{
+  "name": "Gauth",
+  "size": "Medium",
+  "type": "Aberration",
+  "subtype": "Beholder",
+  "alignment": "Lawful Evil",
+  "armor_class": 15,
+  "hit_points": 67,
+  "hit_dice": "9d8+27",
+  "speed": "0 ft., fly 20 ft. (hover)",
+  "strength": 10,
+  "dexterity": 14,
+  "constitution": 16,
+  "intelligence": 15,
+  "wisdom": 15,
+  "charisma": 13,
+  "strength_save": 0,
+  "dexterity_save": 0,
+  "constitution_save": 0,
+  "intelligence_save": 5,
+  "wisdom_save": 5,
+  "charisma_save": 4,
+  "acrobatics": 0,
+  "animal_handling": 0,
+  "arcana": 0,
+  "athletics": 0,
+  "deception": 0,
+  "history": 0,
+  "insight": 0,
+  "intimidation": 0,
+  "investigation": 0,
+  "medicine": 0,
+  "nature": 0,
+  "perception": 5,
+  "performance": 0,
+  "persuasion": 0,
+  "religion": 0,
+  "sleight_of_hand": 0,
+  "stealth": 0,
+  "survival": 0,
+  "damage_vulnerabilities": "",
+  "damage_resistances": "",
+  "damage_immunities": "",
+  "condition_immunities": "prone",
+  "senses": "Darkvision 120 ft., passive Perception 15",
+  "languages": "Deep Speech, Undercommon",
+  "challenge_rating": "6",
+  "special_abilities": [
+    {
+      "name": "Stunning Gaze",
+      "desc": "When a creature that can see the gauth's cen- tral eye starts its turn within 30 feet ofthe gauth, the gauth can force it to make a DC 14 Wisdom saving throw ifthe gauth isn't incapacitated and can see the creature. A creature that fails the save is stunned until the start of its next turn.\nUnless surprised, a creature can avert its eyes at the start ofits turn to avoid the saving throw. Ifthe creature does so, it can't see the gauth until the start of its next turn, when it can avert its eyes again. If the creature looks at the gauth in the meantime, it must immediately make the save.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Death Throes",
+      "desc": "When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "actions": [
+    {
+      "name": "Bite",
+      "desc": "Melee Weapon Attack, reach 5 ft. One target. Deals piercing damage",
+      "attack_bonus": 6,
+      "damage_dice": "2d8",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Eye Rays",
+      "desc": "The gauth shoots three ofthe following magical eye rays at random (reroll duplicates), choosing one to three tar- gets it can see within 120 feet ofit:\n\n1. Devour Magic Ray. The targeted creature must succeed on a DC 14 Dexterity saving throw or have one of its magic items lose all magical properties until the start ofthe gauth's next turn. Ifthe object is a charged item, it also loses ld4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.\n2. Enervation Ray. The targeted creature must make a DC 14 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or halfas much damage on a successful one.\n3. Pushing Ray. The targeted creature must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet directly away from the gauth and have its speed halved until the start of the gauth's next turn.\n4. Fire Ray. The targeted creature must succeed on a DC 14 Dexterity saving throw or take 22 (4dl0) fire damage.\n5. Paralyzing Ray. The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its
+turns, ending the effect on itselfon a success.\n6. Sleep Ray. The targeted creature must succeed on a DC 14
+Wisdom saving throw or fall asleep and remain unconscious for l minute. The target awakens ifit takes damage or another aeature takes an action to wake it. This ray has no effect on
+.constructs and undead.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "legendary_actions": []
+}
