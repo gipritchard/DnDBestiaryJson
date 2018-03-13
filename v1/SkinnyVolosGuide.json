@@ -22,7 +22,7 @@
       "hit_dice": "9d8+18",
       "hit_points": 58,
       "name": "Bodak",
-      "url": "https://github.com/gipritchard/DnDBestiaryJson/blob/master/v1/VolosGuide/Bodak.json"
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Bodak.json"
     },
     {
       "armor_class": 14,
@@ -54,7 +54,7 @@
       "hit_dice": "9d8+27",
       "hit_points": 67,
       "name": "Gauth",
-      "url": "https://github.com/gipritchard/DnDBestiaryJson/blob/master/v1/VolosGuide/Gauth.json"
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Gauth.json"
     },
     {
       "armor_class": 13,
@@ -62,7 +62,7 @@
       "hit_dice": "3d4+6",
       "hit_points": 13,
       "name": "Gazer",
-      "url": "https://github.com/gipritchard/DnDBestiaryJson/blob/master/v1/VolosGuide/Gazer.json"
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Gazer.json"
     }
   ]
 }
