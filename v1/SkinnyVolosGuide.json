@@ -17,6 +17,14 @@
       "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Barghest.json"
     },
     {
+      "armor_class": 15,
+      "challenge_rating": "6",
+      "hit_dice": "9d8+18",
+      "hit_points": 58,
+      "name": "Bodak",
+      "url": "https://github.com/gipritchard/DnDBestiaryJson/blob/master/v1/VolosGuide/Bodak.json"
+    },
+    {
       "armor_class": 14,
       "challenge_rating": "1/2",
       "hit_dice": "4d6+4",
@@ -39,6 +47,22 @@
       "hit_points": 161,
       "name": "Death Kiss",
       "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/DeathKiss.json"
+    },
+    {
+      "armor_class": 15,
+      "challenge_rating": "6",
+      "hit_dice": "9d8+27",
+      "hit_points": 67,
+      "name": "Gauth",
+      "url": "https://github.com/gipritchard/DnDBestiaryJson/blob/master/v1/VolosGuide/Gauth.json"
+    },
+    {
+      "armor_class": 13,
+      "challenge_rating": "1/2",
+      "hit_dice": "3d4+6",
+      "hit_points": 13,
+      "name": "Gazer",
+      "url": "https://github.com/gipritchard/DnDBestiaryJson/blob/master/v1/VolosGuide/Gazer.json"
     }
   ]
 }
