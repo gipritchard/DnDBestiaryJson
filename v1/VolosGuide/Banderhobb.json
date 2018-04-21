@@ -55,7 +55,7 @@
     },
     {
       "name": "Shadow Stealth",
-      "desc": "While in dim light or darkness, the bander- hobb can take the Hide action as a bonus action.",
+      "desc": "While in dim light or darkness, the banderhobb can take the Hide action as a bonus action.",
       "attack_bonus": 0,
       "damage_dice": "",
       "damage_bonus": 0
@@ -78,7 +78,7 @@
     },
     {
       "name": "Swallow",
-      "desc": "The banderhobb makes a bite attack against a Medium or smaller creature it is grappling. If the attack hits, the creature is swallowed, and the grapple ends. The swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the banderhobb, and it takes 10 (3d6) necrotic damage at the start ofeach of the banderhobb's turns. A creature reduced to O hit points in this way stops taking the necrotic damage and becomes stable.\nThe banderhobb can have only one creature swallowed at a time. While the banderhobb isn't incapacitated, it can regur- gitate the creature at any time (no action required) in a space within 5 feet of it. The creature exits prone. Ifthe banderhobb dies, it likewise regurgitates a swallowed creature.",
+      "desc": "The banderhobb makes a bite attack against a Medium or smaller creature it is grappling. If the attack hits, the creature is swallowed, and the grapple ends. The swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the banderhobb, and it takes 10 (3d6) necrotic damage at the start ofeach of the banderhobb's turns. A creature reduced to O hit points in this way stops taking the necrotic damage and becomes stable.\nThe banderhobb can have only one creature swallowed at a time. While the banderhobb isn't incapacitated, it can regurgitate the creature at any time (no action required) in a space within 5 feet of it. The creature exits prone. Ifthe banderhobb dies, it likewise regurgitates a swallowed creature.",
       "attack_bonus": 0,
       "damage_dice": "",
       "damage_bonus": 0

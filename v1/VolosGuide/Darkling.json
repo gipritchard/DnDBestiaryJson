@@ -55,7 +55,7 @@
     },
     {
       "name": "Light Sensitivity",
-      "desc": "While in bright light, the darkling has disad-vantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "desc": "While in bright light, the darkling has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
       "attack_bonus": 0,
       "damage_dice": "",
       "damage_bonus": 0

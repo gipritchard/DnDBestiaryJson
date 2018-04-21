@@ -6,7 +6,7 @@
   "alignment": "Unaligned",
   "armor_class": 14,
   "hit_points": 84,
-  "hit_dice": "8d10+40",
+  "hit_dice": "8d10 + 40",
   "speed": "30ft.",
   "strength": 19,
   "dexterity": 12,
