@@ -1,0 +1,102 @@
+{
+  "name": "Deep Scion",
+  "size": "Medium",
+  "type": "Humanoid",
+  "subtype": "shapechanger",
+  "alignment": "Neutral Evil",
+  "armor_class": 11,
+  "hit_points": 67,
+  "hit_dice": "9d8 + 27",
+  "speed": "30 ft. (20 ft. and swim 40 ft. in hybrid form)",
+  "strength": 18,
+  "dexterity": 13,
+  "constitution": 16,
+  "intelligence": 10,
+  "wisdom": 12,
+  "charisma": 14,
+  "strength_save": 0,
+  "dexterity_save": 0,
+  "constitution_save": 0,
+  "intelligence_save": 0,
+  "wisdom_save": 3,
+  "charisma_save": 4,
+  "acrobatics": 0,
+  "animal_handling": 0,
+  "arcana": 0,
+  "athletics": 0,
+  "deception": 6,
+  "history": 0,
+  "insight": 3,
+  "intimidation": 0,
+  "investigation": 0,
+  "medicine": 0,
+  "nature": 0,
+  "perception": 0,
+  "performance": 0,
+  "persuasion": 0,
+  "religion": 0,
+  "sleight_of_hand": 3,
+  "stealth": 3,
+  "survival": 0,
+  "damage_vulnerabilities": "",
+  "damage_resistances": "",
+  "damage_immunities": "",
+  "condition_immunities": "",
+  "senses": "darkvision 120 ft., passive Perception 11",
+  "languages": "Aquan, Common, thieves' cant",
+  "challenge_rating": "3",
+  "special_abilities": [
+    {
+      "name": "Shapechanger",
+      "desc": "The deep scion can use its action to polymorph into a humanoid-piscine hybrid form, or back into its true form. Its statistics, other than its speed, are the same in each form. Any equipment it is wearing or carrying isn't transformed. The deep scion reverts to its true form if it dies.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Amphibious (Hybrid Form Only)",
+      "desc": "The deep scion can breathe air and water.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "actions": [
+    {
+      "name": "Multiattack",
+      "desc": "In humanoid form, the deep scion makes two melee attacks. In hybrid form, the deep scion  makes three attacks: one with its bite and two with its claws.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Battleaxe (Humanoid Form Only)",
+      "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.",
+      "attack_bonus": 6,
+      "damage_dice": "1d10 or 1d8",
+      "damage_bonus": 4
+    },
+    {
+      "name": "Bite (Hybrid Form Only)",
+      "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6 (1d4 + 4) piercing damage.",
+      "attack_bonus": 6,
+      "damage_dice": "1d4",
+      "damage_bonus": 4
+    },
+    {
+      "name": "Claw (Hybrid Form Only)",
+      "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.",
+      "attack_bonus": 6,
+      "damage_dice": "1d6",
+      "damage_bonus": 4
+    },
+    {
+      "name": "Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest)",
+      "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw or be stunned until the end of the deep scion's next turn. In water, the psychic screech also telepathically transmits the deep scion's memories of the last 24 hours to its master, regardless of distance, so long as it and its master are in the same body of water.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "legendary_actions": []
+}
