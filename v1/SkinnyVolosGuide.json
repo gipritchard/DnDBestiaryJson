@@ -1,9 +1,17 @@
 {
   "monsters": [
     {
+      "armor_class": 16,
+      "challenge_rating": "4",
+      "hit_dice": "11d8 + 33",
+      "hit_points": 82,
+      "name": "Babau",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Babau.json"
+    },
+    {
       "armor_class": 15,
       "challenge_rating": "5",
-      "hit_dice": "8d10+40",
+      "hit_dice": "8d10 + 40",
       "hit_points": 84,
       "name": "Banderhobb",
       "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Banderhobb.json"
@@ -19,15 +27,47 @@
     {
       "armor_class": 15,
       "challenge_rating": "6",
-      "hit_dice": "9d8+18",
+      "hit_dice": "9d8 + 18",
       "hit_points": 58,
       "name": "Bodak",
       "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Bodak.json"
     },
     {
       "armor_class": 14,
+      "challenge_rating": "1/8",
+      "hit_dice": "4d6 + 4",
+      "hit_points": 18,
+      "name": "Boggle",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Boggle.json"
+    },
+    {
+      "armor_class": 15,
+      "challenge_rating": "5",
+      "hit_dice": "9d20 + 27",
+      "hit_points": 121,
+      "name": "Brontosaurus",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Brontosaurus.json"
+    },
+    {
+      "armor_class": 14,
+      "challenge_rating": "5",
+      "hit_dice": "8d10 + 40",
+      "hit_points": 84,
+      "name": "Catoblepas",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Catoblepas.json"
+    },
+    {
+      "armor_class": 16,
+      "challenge_rating": "3",
+      "hit_dice": "9d8 + 18",
+      "hit_points": 58,
+      "name": "Cave Fisher",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/CaveFisher.json"
+    },
+    {
+      "armor_class": 14,
       "challenge_rating": "1/2",
-      "hit_dice": "4d6+4",
+      "hit_dice": "4d6 + 4",
       "hit_points": 18,
       "name": "Chitine",
       "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Chitine.json"
@@ -35,10 +75,34 @@
     {
       "armor_class": 15,
       "challenge_rating": "3",
-      "hit_dice": "12d8+12",
+      "hit_dice": "12d8 + 12",
       "hit_points": 66,
       "name": "Choldrith",
       "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Choldrith.json"
+    },
+    {
+      "armor_class": 12,
+      "challenge_rating": "0",
+      "hit_dice": "1d4",
+      "hit_points": 2,
+      "name": "Cranium Rat",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/CraniumRat.json"
+    },
+    {
+      "armor_class": 14,
+      "challenge_rating": "1/2",
+      "hit_dice": "3d6 + 3",
+      "hit_points": 13,
+      "name": "Darkling",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Darkling.json"
+    },
+    {
+      "armor_class": 15,
+      "challenge_rating": "2",
+      "hit_dice": "5d8 + 5",
+      "hit_points": 27,
+      "name": "Darkling Elder",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/DarklingElder.json"
     },
     {
       "armor_class": 16,
@@ -49,9 +113,49 @@
       "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/DeathKiss.json"
     },
     {
+      "armor_class": 11,
+      "challenge_rating": "3",
+      "hit_dice": "9d8 + 27",
+      "hit_points": 67,
+      "name": "Deep Scion",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/DeepScion.json"
+    },
+    {
+      "armor_class": 13,
+      "challenge_rating": "1",
+      "hit_dice": "4d8 + 8",
+      "hit_points": 26,
+      "name": "Deinonychus",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Deinonychus.json"
+    },
+    {
+      "armor_class": 16,
+      "challenge_rating": "13",
+      "hit_dice": "17d10 + 85",
+      "hit_points": 178,
+      "name": "Devourer",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Devourer.json"
+    },
+    {
+      "armor_class": 12,
+      "challenge_rating": "1/4",
+      "hit_dice": "3d8 + 6",
+      "hit_points": 19,
+      "name": "Dimetrodon",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Dimetrodon.json"
+    },
+    {
+      "armor_class": 15,
+      "challenge_rating": "7",
+      "hit_dice": "13d10 + 52",
+      "hit_points": 123,
+      "name": "Draegloth",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Draegloth.json"
+    },
+    {
       "armor_class": 15,
       "challenge_rating": "6",
-      "hit_dice": "9d8+27",
+      "hit_dice": "9d8 + 27",
       "hit_points": 67,
       "name": "Gauth",
       "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Gauth.json"
@@ -59,10 +163,66 @@
     {
       "armor_class": 13,
       "challenge_rating": "1/2",
-      "hit_dice": "3d4+6",
+      "hit_dice": "3d4 + 6",
       "hit_points": 13,
       "name": "Gazer",
       "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Gazer.json"
+    },
+    {
+      "armor_class": 11,
+      "challenge_rating": "1/4",
+      "hit_dice": "3d10 + 3",
+      "hit_points": 19,
+      "name": "Hardosaurus",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Hardosaurus.json"
+    },
+    {
+      "armor_class": 13,
+      "challenge_rating": "1",
+      "hit_dice": "6d8 + 6",
+      "hit_points": 33,
+      "name": "Maw Demon",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/MawDemon.json"
+    },
+    {
+      "armor_class": 13,
+      "challenge_rating": "2",
+      "hit_dice": "4d12 + 4",
+      "hit_points": 30,
+      "name": "Quetzalcoatlus",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Quetzalcoatlus.json"
+    },
+    {
+      "armor_class": 14,
+      "challenge_rating": "8",
+      "hit_dice": "13d10 + 39",
+      "hit_points": 110,
+      "name": "Shoosuva",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Shoosuva.json"
+    },
+    {
+      "armor_class": 13,
+      "challenge_rating": "4",
+      "hit_dice": "8d12 + 24",
+      "hit_points": 76,
+      "name": "Stegosaurus",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Stegosaurus.json"
+    },
+    {
+      "armor_class": 12,
+      "challenge_rating": "5",
+      "hit_dice": "8d8",
+      "hit_points": 36,
+      "name": "Swarm Of Cranium Rats",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/SwarmOfCraniumRats.json"
+    },
+    {
+      "armor_class": 13,
+      "challenge_rating": "1/4",
+      "hit_dice": "3d4 + 3",
+      "hit_points": 10,
+      "name": "Velociraptor",
+      "url": "https://raw.githubusercontent.com/gipritchard/DnDBestiaryJson/master/v1/VolosGuide/Velociraptor.json"
     }
   ]
 }
