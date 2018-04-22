@@ -1,0 +1,89 @@
+{
+  "name": "Babau",
+  "size": "Medium",
+  "type": "Fiend",
+  "subtype": "Demon",
+  "alignment": "Chaotic Evil",
+  "armor_class": 16,
+  "hit_points": 82,
+  "hit_dice": "11d8 + 33",
+  "speed": "40 ft.",
+  "strength": 19,
+  "dexterity": 16,
+  "constitution": 16,
+  "intelligence": 11,
+  "wisdom": 12,
+  "charisma": 13,
+  "strength_save": 0,
+  "dexterity_save": 0,
+  "constitution_save": 0,
+  "intelligence_save": 0,
+  "wisdom_save": 0,
+  "charisma_save": 0,
+  "acrobatics": 0,
+  "animal_handling": 0,
+  "arcana": 0,
+  "athletics": 0,
+  "deception": 0,
+  "history": 0,
+  "insight": 0,
+  "intimidation": 0,
+  "investigation": 0,
+  "medicine": 0,
+  "nature": 0,
+  "perception": 5,
+  "performance": 0,
+  "persuasion": 0,
+  "religion": 0,
+  "sleight_of_hand": 0,
+  "stealth": 5,
+  "survival": 0,
+  "damage_vulnerabilities": "",
+  "damage_resistances": "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",
+  "damage_immunities": "poison",
+  "condition_immunities": "poisoned",
+  "senses": "darkvision 120 ft., passive Perception 15",
+  "languages": "Abyssal",
+  "challenge_rating": "4",
+  "special_abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "desc": "The babau's innate spellcasting ability is Wisdom (spell save DC 11). The babau can innately cast the following spells, requiring no material components:
+At will: darkness, dispel magic, fear, heat metal, levitate",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "actions": [
+    {
+      "name": "Multiattack",
+      "desc": "The babau makes two melee attacks. It can also use Weakening Gaze before or after making these attacks.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Claw",
+      "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage",
+      "attack_bonus": 6,
+      "damage_dice": "1d8",
+      "damage_bonus": 4
+    },
+    {
+      "name": "Spear",
+      "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when used with two hands to make a  melee attack.",
+      "attack_bonus": 6,
+      "damage_dice": "1d8 or 1d6",
+      "damage_bonus": 4
+    },
+    {
+      "name": "Weakening Gaze",
+      "desc": "The babau targets one creature that it can see within 20 feet of it. The target must make a DC 13 Constitution saving throw. On a failed save, the target deals only half damage with weapon attacks that use Strength for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "legendary_actions": []
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Deinonychus",
+  "size": "Medium",
+  "type": "Beast",
+  "subtype": "",
+  "alignment": "Unaligned",
+  "armor_class": 13,
+  "hit_points": 26,
+  "hit_dice": "4d8 + 8",
+  "speed": "40 ft.",
+  "strength": 15,
+  "dexterity": 15,
+  "constitution": 14,
+  "intelligence": 4,
+  "wisdom": 12,
+  "charisma": 6,
+  "strength_save": 0,
+  "dexterity_save": 0,
+  "constitution_save": 0,
+  "intelligence_save": 0,
+  "wisdom_save": 0,
+  "charisma_save": 0,
+  "acrobatics": 0,
+  "animal_handling": 0,
+  "arcana": 0,
+  "athletics": 0,
+  "deception": 0,
+  "history": 0,
+  "insight": 0,
+  "intimidation": 0,
+  "investigation": 0,
+  "medicine": 0,
+  "nature": 0,
+  "perception": 3,
+  "performance": 0,
+  "persuasion": 0,
+  "religion": 0,
+  "sleight_of_hand": 0,
+  "stealth": 0,
+  "survival": 0,
+  "damage_vulnerabilities": "",
+  "damage_resistances": "",
+  "damage_immunities": "",
+  "condition_immunities": "",
+  "senses": "passive Perception 13",
+  "languages": "-",
+  "challenge_rating": "1",
+  "special_abilities": [
+    {
+      "name": "Pounce",
+      "desc": "If the deinonychus moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the deinonychus can make one bite attack against it as a bonus action.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "actions": [
+    {
+      "name": "Multiattack",
+      "desc": "The deinonychus makes three attacks: one with its bite and two with its claws.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Bite",
+      "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
+      "attack_bonus": 4,
+      "damage_dice": "1d8",
+      "damage_bonus": 2
+    },
+    {
+      "name": "Claw",
+      "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.",
+      "attack_bonus": 4,
+      "damage_dice": "1d8",
+      "damage_bonus": 2
+    }
+  ],
+  "legendary_actions": []
+}

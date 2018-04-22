@@ -1,0 +1,81 @@
+{
+  "name": "Shoosuva",
+  "size": "Large",
+  "type": "Fiend",
+  "subtype": "Demon",
+  "alignment": "Chaotic Evil",
+  "armor_class": 14,
+  "hit_points": 110,
+  "hit_dice": "13d10 + 39",
+  "speed": "40 ft.",
+  "strength": 18,
+  "dexterity": 13,
+  "constitution": 17,
+  "intelligence": 7,
+  "wisdom": 14,
+  "charisma": 9,
+  "strength_save": 0,
+  "dexterity_save": 4,
+  "constitution_save": 6,
+  "intelligence_save": 0,
+  "wisdom_save": 5,
+  "charisma_save": 0,
+  "acrobatics": 0,
+  "animal_handling": 0,
+  "arcana": 0,
+  "athletics": 0,
+  "deception": 0,
+  "history": 0,
+  "insight": 0,
+  "intimidation": 0,
+  "investigation": 0,
+  "medicine": 0,
+  "nature": 0,
+  "perception": 0,
+  "performance": 0,
+  "persuasion": 0,
+  "religion": 0,
+  "sleight_of_hand": 0,
+  "stealth": 0,
+  "survival": 0,
+  "damage_vulnerabilities": "",
+  "damage_resistances": "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",
+  "damage_immunities": "poison",
+  "condition_immunities": "charmed, frightened, poisoned",
+  "senses": "darkvision 60 ft., passive Perception 12",
+  "languages": "Abyssal, Gnoll, telepathy 120 ft.",
+  "challenge_rating": "8",
+  "special_abilities": [
+    {
+      "name": "Rampage",
+      "desc": "When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can take a bonus action to move up to half its speed and make a bite attack.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    }
+  ],
+  "actions": [
+    {
+      "name": "Multiattack",
+      "desc": "The shoosuva makes two attacks: one with its bite and one with its tail stinger.",
+      "attack_bonus": 0,
+      "damage_dice": "",
+      "damage_bonus": 0
+    },
+    {
+      "name": "Bite",
+      "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 26 (4d10 + 4) piercing damage.",
+      "attack_bonus": 7,
+      "damage_dice": "4d10",
+      "damage_bonus": 4
+    },
+    {
+      "name": "Tail Stinger",
+      "desc": "Melee Weapon Attack: +7 to hit, reach 15 ft., one creature. Hit: 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+      "attack_bonus": 7,
+      "damage_dice": "2d8",
+      "damage_bonus": 4
+    }
+  ],
+  "legendary_actions": []
+}
